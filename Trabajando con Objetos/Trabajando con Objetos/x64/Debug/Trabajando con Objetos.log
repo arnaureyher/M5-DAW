@@ -1,0 +1,5 @@
+﻿  lancha.cpp
+C:\Users\x\OneDrive - Centre d'Estudis Monlau\1-DAW\M5-Entorns de Desenvolupament\UF3\Trabajando con Objetos\Trabajando con Objetos\lancha.cpp(57,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  Main.cpp
+C:\Users\x\OneDrive - Centre d'Estudis Monlau\1-DAW\M5-Entorns de Desenvolupament\UF3\Trabajando con Objetos\Trabajando con Objetos\Main.cpp(13,2): error C2065: 'cout': identificador no declarado
+  Generando código...
